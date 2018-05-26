@@ -1,1 +1,1 @@
-# LinkageBanner
+# 教你用kotlin撸一个背景透明度联动的banner
